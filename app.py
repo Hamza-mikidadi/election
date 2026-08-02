@@ -9,7 +9,7 @@ st.set_page_config(page_title="Élections Bureau Exécutif ACSI 2026", page_icon
 # Dans Google Sheets : Fichier > Partager > Publier sur le web > onglet des votes > format CSV
 # Colle le lien généré ici (remplace l'URL ci-dessous par le tien) :
 
-SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/1peX5t2r5SWiPqB7_kPVqUVFWw78JRTeT1CNKo1LnU7s/export?format=csv&gid=2015606294"
+SHEET_CSV_URL = ""
 # ⚠️ gid=0 = premier onglet. Si tes votes sont dans un autre onglet, remplace 0
 # par le numéro visible après "gid=" dans l'URL de cet onglet.
 # ⚠️ Le Sheet doit être partagé en "Tous les utilisateurs disposant du lien - Lecteur"
