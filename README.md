@@ -2,6 +2,13 @@
 
 Welcome to the Election Analysis project! This interactive Data Science application is designed to process, analyze, and visualize election data trends, voting patterns, and statistical results.
 
+## 🚀 Live Demo
+Click the link below to open and test the application directly in your web browser (no installation required):
+
+👉👉 [CLICK HERE TO TEST THE LIVE APPLICATION](https://election-rt8ii8n37n8oisndn7d7n3.streamlit.app/) 👈👈
+
+*(Note: If your deployed URL is different, please replace the link above with your exact Streamlit Share URL)*
+
 ## 🛠️ Features & Technologies
 - **Interactive UI:** Developed using **Streamlit** for a smooth, dynamic, and user-friendly data experience.
 - **Data Engineering:** Automated cleaning, restructuring, and preprocessing of raw election datasets using **Pandas** and **NumPy**.
