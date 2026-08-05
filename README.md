@@ -5,7 +5,7 @@ Welcome to the Election Analysis project! This interactive Data Science applicat
 ## 🚀 Live Demo
 Click the link below to open and test the application directly in your web browser (no installation required):
 
-👉👉 [CLICK HERE TO TEST THE LIVE APPLICATION](https://election-rt8ii8n37n8oisndn7d7n3.streamlit.app/) 👈👈
+👉👉 [CLICK HERE TO TEST THE LIVE APPLICATION](https://election-qgyv.onrender.com/) 👈👈
 
 *(Note: If your deployed URL is different, please replace the link above with your exact Streamlit Share URL)*
 
