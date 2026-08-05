@@ -15,7 +15,7 @@ SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/1bJu2m8EDSyVJxVYhJZnwOqh
 # ⚠️ Le Sheet doit être partagé en "Tous les utilisateurs disposant du lien - Lecteur"
 # (Partager > Accès général), sinon tu auras une erreur 401.
 
-# --- BARRE LATÉRALE (SIDEBAR) ---
+# --- BARRE LATÉRALE (SIDEBAR) ---å
 with st.sidebar:
     try:
         st.image("acsi.jpeg", width=80)
