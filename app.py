@@ -17,10 +17,6 @@ SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/1bJu2m8EDSyVJxVYhJZnwOqh
 
 # --- BARRE LATÉRALE (SIDEBAR) ---å
 with st.sidebar:
-    try:
-        st.image("acsi.jpeg", width=80)
-    except Exception:
-        pass
 
     st.title("Navigation")
     st.markdown("Sélectionnez le poste dont vous souhaitez voir les résultats :")
